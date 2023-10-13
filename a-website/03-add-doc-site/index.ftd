@@ -9,7 +9,7 @@
 ;; Also, you can give the `site-name` of your site as header property
 
 ;; ========================= REMOVE THE COMMENT BELOW ==========================
-/-- ds.page: Page Title
+-- ds.page: Page Title
 site-name: My Site
 ;; ================================= END =======================================
 
@@ -28,4 +28,4 @@ As long as you live, keep learning how to live.
 
 
 ;; ========================= REMOVE THE COMMENT BELOW ==========================
-/-- end: ds.page
+-- end: ds.page

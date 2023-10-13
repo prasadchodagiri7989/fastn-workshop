@@ -1,7 +1,7 @@
 ;; In `index.ftd` we will import the quote module from bling package.
 
 ;; ========================= REMOVE THE COMMENT BELOW ==========================
-;; -- import: fastn-community.github.io/bling/quote
+-- import: fastn-community.github.io/bling/quote
 ;; ================================= END =======================================
 ;; The last word ie. quote, becomes the default alias for using the quote 
 ;; components
@@ -10,7 +10,7 @@
 ;; Now use the component `background-image` of the quote module with some values:
 
 ;; ======================== REMOVE THE COMMENT BELOW ==========================
-/-- quote.background-image: Lucius Annaeus Seneca
+-- quote.background-image: Lucius Annaeus Seneca
 quote-background: https://e0.pxfuel.com/wallpapers/491/601/desktop-wallpaper-ultra-original-and-background-it-ultra.jpg
 text-color: #FFF
 
